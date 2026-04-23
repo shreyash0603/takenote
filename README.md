@@ -59,7 +59,7 @@ TakeNote was created with TypeScript, React, Redux, Node, Express, Codemirror, W
 Clone and install.
 
 ```bash
-git clone git@github.com:taniarascia/takenote
+git clone git@github.com:Shreyash0603/takenote
 cd takenote
 npm i
 ```
@@ -97,7 +97,7 @@ DEMO=true
 ### Installation
 
 ```bash
-git clone git@github.com:taniarascia/takenote
+git clone git@github.com:Shreyash0603/takenote
 cd takenote
 npm i
 ```
