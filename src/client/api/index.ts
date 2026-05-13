@@ -19,14 +19,14 @@ const markdown = `# Welcome to Takenote!
 
 TakeNote is a free, open-source notes app for the web. It is a demo project only, and does not integrate with any database or cloud. Your notes are saved in local storage and will not be permanently persisted, but are available for download.
 
-View the source on [Github](https://github.com/taniarascia/takenote).
+
 
 ## Features
 
 - **Plain text notes** - take notes in an IDE-like environment that makes no assumptions
 - **Markdown preview** - view rendered HTML
 - **Linked notes** - use \`{{uuid}}\` syntax to link to notes within other notes
-- **Syntax highlighting** - light and dark mode available (based on the beautiful [New Moon theme](https://taniarascia.github.io/new-moon/))
+- **Syntax highlighting** - light and dark mode available (based on the beautiful [New Moon theme]
 - **Keyboard shortcuts** - use the keyboard for all common tasks - creating notes and categories, toggling settings, and other options
 - **Drag and drop** - drag a note or multiple notes to categories, favorites, or trash
 - **Multi-cursor editing** - supports multiple cursors and other [Codemirror](https://codemirror.net/) options
